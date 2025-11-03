@@ -6,6 +6,9 @@ Se crea un usuario con contraseña ya encriptada desde Postman
 Se valida que no existan usuarios repetidos Postman
 <img width="940" height="577" alt="image" src="https://github.com/user-attachments/assets/495a9a78-5920-439f-9b2a-0d475ff87911" />
 
+Listamos los Usuarios
+<img width="1283" height="595" alt="image" src="https://github.com/user-attachments/assets/a7518166-b7bc-41c6-958a-334aae149372" />
+
 Iniciamos sesión con un usuario para ver que se genera el Token Postman
 <img width="941" height="491" alt="image" src="https://github.com/user-attachments/assets/1ada11bb-2445-4949-94f8-654b766a28eb" />
 
